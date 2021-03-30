@@ -3,3 +3,5 @@
 
 choix=int(input("Choisissez un nombre entre 0 et 49 : ")
 mise=int(input("Choisissez une somme à miser : ")
+random=random.randrange(50)
+print(random)
